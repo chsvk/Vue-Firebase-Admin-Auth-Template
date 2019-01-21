@@ -1,2 +1,2 @@
-# OpticsAdmin
-Admin Template for optics hub
+# Vue Admin template
+Admin Template for Future use 
